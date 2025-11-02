@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Muhammed Siddiq Official</title>
+    <style>
+      body { 
+        font-family: Arial; 
+        text-align: center; 
+        background-color: #f2f2f2; 
+        margin-top: 100px; 
+      }
+      h1 { color: #0078D7; }
+      p { font-size: 18px; color: #333; }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to Muhammed Siddiq Official</h1>
+    <p>My first live website on GitHub Pages 🎉</p>
+  </body>
+</html>
